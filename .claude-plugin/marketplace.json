@@ -1,0 +1,15 @@
+{
+  "name": "guard-system-100s",
+  "owner": { "name": "100s", "url": "https://github.com/100sluca" },
+  "metadata": {
+    "description": "Le garde-fou de tout ce qu'on code : ça marche, optimal, cohérent, sûr et fluide, en permanence dans Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "guard-system-100s",
+      "source": "./plugin",
+      "description": "Règles à chaque session, preuve et relecture de ce qui vient d'être écrit, garde qui bloque les clés en dur et les secrets avant commit ou push, scanner, audit en 15 domaines, glossaire des notions",
+      "version": "0.3.0"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+# Fins de ligne LF partout : le pre-commit installé est un script sh.
+* text=auto eol=lf

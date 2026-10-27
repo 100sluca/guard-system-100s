@@ -1,0 +1,9 @@
+{
+  "name": "guard-system-100s",
+  "version": "0.3.0",
+  "description": "Le garde-fou de tout ce qu'on code : d'abord du code qui marche, puis optimal, cohérent, sûr et fluide. Des règles à chaque session, un garde qui bloque les clés d'API en dur et les secrets avant commit ou push, et qui relance Claude pour prouver et relire ce qu'il vient d'écrire, un scanner, un audit en 15 domaines et le glossaire de chaque notion",
+  "author": { "name": "100s", "url": "https://github.com/100sluca" },
+  "license": "MIT",
+  "keywords": ["securite", "secrets", "audit", "qualite", "rgpd", "owasp"],
+  "types": "./types/index.d.ts"
+}
